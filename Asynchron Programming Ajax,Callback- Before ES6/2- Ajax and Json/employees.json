@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Enes Kuralay",
+        "department" : "IT",
+        "age": 22
+    },
+    {
+        "name": "Tylor Durden",
+        "department" : "Actor",
+        "age": 25
+    },
+    {
+        "name": "Thomas Shelby",
+        "department" : "Salesman",
+        "age": 23
+    }
+]
